@@ -1,0 +1,19 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "keywords": [],
+  "author": "Avish Kumar",
+  "license": "ISC",
+  "description": "Made By Avish Kumar"
+}
