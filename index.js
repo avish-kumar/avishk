@@ -179,7 +179,7 @@ client.on('guildMemberAdd', member => {
 
 client.on('message', msg => {
   if (msg.content === '.invite') {
-    msg.reply('https://discordapp.com/oauth2/authorize?client_id=591559159791747084&permissions=0&scope=bot')
+    msg.reply('https://discordapp.com/api/oauth2/authorize?client_id=586174905863766028&permissions=8&scope=bot')
   }
 })
 
